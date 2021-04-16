@@ -8,4 +8,5 @@
 ## Tech Stack
 <hr>
 
-<code>HTML</code>, <code>PHP</code>, <code>CSS Boostrap</code>
+Languages: <code>HTML</code>, <code>PHP</code>, <code>CSS Boostrap</code>
+Database: <code>MySQL</code>
